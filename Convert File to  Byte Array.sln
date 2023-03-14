@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert File to  Byte Array", "Convert File to  Byte Array\Convert File to  Byte Array.csproj", "{AAF96B7C-0585-4D2E-9F6E-25751C5B2F54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAF96B7C-0585-4D2E-9F6E-25751C5B2F54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAF96B7C-0585-4D2E-9F6E-25751C5B2F54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAF96B7C-0585-4D2E-9F6E-25751C5B2F54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAF96B7C-0585-4D2E-9F6E-25751C5B2F54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE95C4F9-5234-4595-90CE-D07CA41D0EE8}
+	EndGlobalSection
+EndGlobal
